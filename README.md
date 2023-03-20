@@ -1,7 +1,7 @@
 # imguiex
 
-## collections
+collections
 
-[ ] file explorer
-[ ] file editor
-[ ] port external implementations 
+- [ ] file explorer
+- [ ] file editor
+- [ ] port external implementations 
